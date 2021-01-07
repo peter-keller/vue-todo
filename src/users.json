@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Sam Blowes",
+    "todos": [
+      {
+        "date": "2020-05-11T09:12:05.255Z",
+        "value": "Hello world...<br/>This is <b>editable </b> some content<br/>It works <i>great</i>!",
+        "type": "html"
+      },
+      {
+        "date": "2020-05-11T09:13:05.255Z",
+        "value": "I <b>❤</b> Tacos",
+        "type": "html"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Paul Kettley",
+    "todos": [
+      {
+        "date": "2020-05-11T09:12:05.255Z",
+        "value": "What is CRUD?;<br/> - Create<br/> - Read<br/> - Update<br/> - Delete",
+        "type": "html"
+      }
+    ]
+  }
+]
